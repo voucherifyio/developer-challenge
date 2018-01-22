@@ -1,5 +1,4 @@
 # Voucherify Developer Challenge
 Read more https://www.voucherify.io/blog/voucherify-developer-challenge 
 
-UPDATE:
-The first task will be announced on 22 January - [read more](https://www.voucherify.io/blog/contest-task-1-pre-announcement)
+[Task 1](https://www.voucherify.io/blog/voucherify-developer-challenge-task-1-referral-program-visualization) - Deadline: 11.02.2018 23:59 UTC / Feb 11, 2018 11:59 p.m. UTC
